@@ -1,0 +1,6 @@
+dependencies {
+   implementation(project(":usecase"))
+    implementation(project(":entities"))
+    implementation(project(":repository"))
+    implementation(project(":web"))
+}

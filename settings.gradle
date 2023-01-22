@@ -1,0 +1,6 @@
+rootProject.name = 'NexosUser'
+include ':app'
+include ':entities'
+include ':usecase'
+include ':web'
+include ':repository'
